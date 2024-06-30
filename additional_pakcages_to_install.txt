@@ -1,0 +1,4 @@
+sudo apt install ocaml ocamlbuild autoconf automake indent libtool
+sudo apt install libnum-ocaml-dev
+sudo apt install xfig fig2dev
+sudo apt install texinfo
